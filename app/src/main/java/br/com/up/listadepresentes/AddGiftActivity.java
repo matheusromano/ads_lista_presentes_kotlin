@@ -54,8 +54,8 @@ public class AddGiftActivity extends AppCompatActivity {
         String description = inputEditTextDescription.getText().toString();
 
 
-        Gift gift;
-
-        gift.get
+//        Gift gift;
+//
+//        gift.get
     }
 }
